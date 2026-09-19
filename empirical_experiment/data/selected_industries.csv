@@ -1,0 +1,11 @@
+order,short_name,full_name,processed_return_column_index
+1,Food,Food Products,3
+2,Hlth,Healthcare,7
+3,Cnstr,Construction,11
+4,Autos,Automobiles,15
+5,Util,Utilities,19
+6,Servs,Services,23
+7,Paper,Paper,27
+8,Whlsl,Wholesale,31
+9,Fin,Finance,35
+10,ElcEq,Electrical Equipment,39
