@@ -16,4 +16,12 @@ This folder contains the Matlab code, final figures, and table data for the nume
 
 Each experiment folder contains `code/`, `figures/`, `tables/`, and `docs/`. Its README records the  key parameters, main outputs.
 
-The six unified main-experiment panels in each main experiment's `figures/` directory are the current main-paper figure materials. Sensitivity figures and paper-facing tables are online-appendix materials.
+
+## Empirical experiment
+
+`empirical_experiment/` — rolling-window empirical illustration using U.S. industry portfolio returns.
+
+The empirical experiment corresponds to the main-text empirical illustration. It uses the fixed ten-industry portfolio universe, the rolling-window block-resampled training design, the estimated value-function discrepancy diagnostic, and the realized out-of-sample wealth comparison.
+
+Empirical experiment folder contains `code/`, `figures/` ,`data/`.
+
