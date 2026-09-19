@@ -16,5 +16,4 @@ This folder contains the Matlab code, final figures, and table data for the nume
 
 Each experiment folder contains `code/`, `figures/`, `tables/`, and `docs/`. Its README records the  key parameters, main outputs.
 
-The six unified main-experiment panels in each main experiment's `figures/` directory are the current main-paper figure materials. Sensitivity figures and paper-facing tables are online-appendix materials. CSV validation and audit tables are retained for provenance.
-
+The six unified main-experiment panels in each main experiment's `figures/` directory are the current main-paper figure materials. Sensitivity figures and paper-facing tables are online-appendix materials.
