@@ -14,7 +14,7 @@ This folder contains the Matlab code, final figures, and table data for the nume
 2. `sensitivity_experiments/sensitivity_training_size/` — training-sample-size sensitivity.
 3. `sensitivity_experiments/sensitivity_asset_dimension/` — asset-dimension sensitivity.
 
-Each experiment folder contains `code/`, `figures/`, `tables/`, and `docs/`. Its README records the  key parameters, main outputs.
+README records the  key parameters, main outputs.
 
 
 ## Empirical experiment
@@ -23,5 +23,5 @@ Each experiment folder contains `code/`, `figures/`, `tables/`, and `docs/`. Its
 
 The empirical experiment corresponds to the main-text empirical illustration. It uses the fixed ten-industry portfolio universe, the rolling-window block-resampled training design, the estimated value-function discrepancy diagnostic, and the realized out-of-sample wealth comparison.
 
-Empirical experiment folder contains `code/`, `figures/` ,`data/`.
+Empirical experiment folder contains `code/`, `figures/` ,`data/`,`results/`,`tables/`.
 
